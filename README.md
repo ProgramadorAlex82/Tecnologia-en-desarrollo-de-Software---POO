@@ -2,4 +2,5 @@
 Repositorio en Github para trabajos, ejercicios, practicas sobre la materia "Programación Orientada a Objetos" en Java.
 ## 📂 Índice
 ## POO
--[Clases-y-Objetos]
+- Clases y Objetos
+- [Test](.Clases-y-Objetos/Test.java)
