@@ -14,7 +14,7 @@ Repositorio en Github para trabajos, ejercicios, practicas sobre la materia "Pro
 </details>
 
   
-- [Dardos](./POO/Clases-y-Objetos/Dardos.java) - Ejercicio de Nivel Inicial 7.a.5.
+- [Semaforo](./POO/Clases-y-Objetos/Dardos.java) - Ejercicio de Nivel Inicial 7.a.5.
 
 <details>
   <summary>Imagen de lo Mostrado en Consola</summary>
