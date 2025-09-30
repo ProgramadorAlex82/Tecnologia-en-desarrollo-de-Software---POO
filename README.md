@@ -7,7 +7,7 @@ Repositorio en Github para trabajos, ejercicios, practicas sobre la materia "Pro
 - [Test](POO/Clases-y-Objetos/Test.java) - Archivo central en donde se ejecutara todo.
   
 <details>
-  <summary>Imagen de lo Mostrado en Consola</summary>
+  <summary>🔥Imagen de lo Mostrado en Consola</summary>
 
   ![Imagen](./POO/Imagenes/Test.png)
 
@@ -17,7 +17,7 @@ Repositorio en Github para trabajos, ejercicios, practicas sobre la materia "Pro
 - [Semaforo](./POO/Clases-y-Objetos/Semaforo.java) - Ejercicio de Nivel Inicial 7.a.5.
 
 <details>
-  <summary>Imagen de lo Mostrado en Consola</summary>
+  <summary>🔥Imagen de lo Mostrado en Consola</summary>
 
   ![Imagen](./POO/Imagenes/Semaforo.png)
 
@@ -27,7 +27,7 @@ Repositorio en Github para trabajos, ejercicios, practicas sobre la materia "Pro
 - [Dardos](POO/Clases-y-Objetos/Dardos.java) - Ejercicio de Nivel Medio 7.b.1.
 
  <details>
-  <summary>Imagen de lo Mostrado en Consola</summary>
+  <summary>🔥Imagen de lo Mostrado en Consola</summary>
 
   ![Imagen](./POO/Imagenes/Dardos.png)
 
