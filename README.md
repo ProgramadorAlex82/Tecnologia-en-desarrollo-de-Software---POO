@@ -3,4 +3,4 @@ Repositorio en Github para trabajos, ejercicios, practicas sobre la materia "Pro
 
 ## 📂 Índice
 ## - Clases y Objetos
-- [Test](POO/Clases-y-Objetos/Test.java)
+- [Test](POO/Clases-y-Objetos/Test.java) //Archivo central en donde se ejecutara todo.
