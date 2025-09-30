@@ -40,3 +40,5 @@ Practicas aleatorias de temas aleatorios
 - [Pruebas-Basicas](POO/Practicas/CondicionesTest1.java) - Practica de pruebas basicas.
 
 ### Tareas
+- [Pruebas-de-Evaluacion](POO/Tareas/EV_Prueba.java) - Practica preliminar del primer parcial.
+- [Taller](POO/Tareas/Taller.java) - Taller de Arrays con notas de Alumnos.
