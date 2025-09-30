@@ -8,6 +8,8 @@ Repositorio en Github para trabajos, ejercicios, practicas sobre la materia "Pro
   <details>
   <summary>Ver solución del Ejercicio 1</summary>
   ![Imagen](POO/Imagenes/Test.png)
+  </details>
+  
 - [Dardos](./POO/Clases-y-Objetos/Dardos.java) - Ejercicio de Nivel Inicial 7.a.5.
   <details>
   <summary>Ver solución del Ejercicio 1</summary>
