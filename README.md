@@ -7,7 +7,7 @@ Repositorio en Github para trabajos, ejercicios, practicas sobre la materia "Pro
 - [Test](POO/Clases-y-Objetos/Test.java) - Archivo central en donde se ejecutara todo.
   
 <details>
-  <summary>🔥Imagen de lo Mostrado en Consola</summary>
+  <summary>🔥Imagen de lo Mostrado en Consola(Actualmente)</summary>
 
   ![Imagen](./POO/Imagenes/Test.png)
 
