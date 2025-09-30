@@ -37,7 +37,7 @@ Repositorio en Github para trabajos, ejercicios, practicas sobre la materia "Pro
 Practicas aleatorias de temas aleatorios
 
 - [Condiciones](POO/Practicas/CondicionesTest1.java) - Practica de condiciones basicas.
-- [Pruebas-Basicas](POO/Practicas/CondicionesTest1.java) - Practica de pruebas basicas.
+- [Pruebas-Basicas](POO/Practicas/JavaTest1.java) - Practica de pruebas basicas.
 
 ### Tareas
 - [Pruebas-de-Evaluacion](POO/Tareas/EV_Prueba.java) - Practica preliminar del primer parcial.
